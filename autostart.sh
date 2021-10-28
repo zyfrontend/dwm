@@ -6,6 +6,7 @@ sleep 1
 picom &
 
 sleep 1
-xmodmap ~/.Xmodmap
+Xmodmap ~/.Xmodmap
+fcitx5 &
 /opt/clash-for-windows-bin/cfw &
 flameshot &
