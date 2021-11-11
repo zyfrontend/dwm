@@ -1,6 +1,6 @@
 # dwm
 
-![](https://gitee.com/zyfullstack/picom_img/raw/master/img/20211111203442.png)
+![](https://zyfullstack-images.oss-cn-shanghai.aliyuncs.com/img20211111204850.png)
 
 ## 依赖
 - light(背光)
