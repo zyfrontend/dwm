@@ -1,3 +1,2 @@
 #!/bin/bash
-
-amixer -qM set Master 5%+ umute
+amixer -qM set Speaker 5%+ umute
